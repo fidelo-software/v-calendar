@@ -57,7 +57,14 @@ module.exports = {
             '--dot-border-radius': '50%',
             '--dot-spacing': '3px',
             '--bar-height': '3px',
-            '--bars-width': '75%'
+            '--bars-width': '75%',
+            '--popover-horizontal-content-offset': ' 8px',
+            '--popover-vertical-content-offset': ' 10px',
+            '--popover-slide-translation': ' 15px',
+            '--popover-transition-time': ' 0.14s ease-in-out',
+            '--popover-caret-horizontal-offset': ' 18px',
+            '--popover-caret-vertical-offset': ' 8px',
+            '--day-content-transition-time': ' 0.13s ease-in'
           }
         }
       ]
