@@ -220,8 +220,8 @@ export default {
 .vc-grid-container {
   position: relative;
   flex-shrink: 1;
-  display: grid;
   display: -ms-grid;
+  display: grid;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
 }
